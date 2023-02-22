@@ -5,9 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * @author liuguanghu
- * @title: TopicsApplication
- * @projectName rabbitmq
- * @description: 消息确认
+ * @title: WebSocktApplication
+ * @projectName WebSocktApplication
+ * @description: ebSockt
  * @date 2022/8/26 15:18
  */
 @SpringBootApplication
